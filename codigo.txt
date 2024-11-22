@@ -1,0 +1,26 @@
+inteiro numero_secreto, chute, tentativas
+ numero_secreto <- 7
+ tentativas <- 0
+
+escreva("Bem-vindo ao Jogo de Adivinhação!")
+escreva("Tente adivinhar o número secreto (entre 1 e 10).")
+
+enquanto (chute diferente numero_secreto)
+{
+    escreva("Digite seu palpite: ")
+    leia(%d, chute)
+    tentativas <- tentativas + 1
+
+    se (chute menor numero_secreto)
+    {
+escreva("O número secreto é maior.")
+    }
+    senaose (chute maior numero_secreto)
+    {
+escreva("O número secreto é menor.")
+    }
+    senao
+    {
+escreva("Parabéns! Você acertou o número secreto em %d tentativa(s)!", tentativas)
+    }
+}

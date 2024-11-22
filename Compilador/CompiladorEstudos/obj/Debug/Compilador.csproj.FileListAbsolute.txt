@@ -1,0 +1,7 @@
+C:\Users\INFORMATICA03-K\Downloads\TRABALHO COMPILADOR\Compilador\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe.config
+C:\Users\INFORMATICA03-K\Downloads\TRABALHO COMPILADOR\Compilador\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe
+C:\Users\INFORMATICA03-K\Downloads\TRABALHO COMPILADOR\Compilador\CompiladorEstudos\bin\Debug\CompiladorEstudos.pdb
+C:\Users\INFORMATICA03-K\Downloads\TRABALHO COMPILADOR\Compilador\CompiladorEstudos\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\INFORMATICA03-K\Downloads\TRABALHO COMPILADOR\Compilador\CompiladorEstudos\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\INFORMATICA03-K\Downloads\TRABALHO COMPILADOR\Compilador\CompiladorEstudos\obj\Debug\CompiladorEstudos.exe
+C:\Users\INFORMATICA03-K\Downloads\TRABALHO COMPILADOR\Compilador\CompiladorEstudos\obj\Debug\CompiladorEstudos.pdb

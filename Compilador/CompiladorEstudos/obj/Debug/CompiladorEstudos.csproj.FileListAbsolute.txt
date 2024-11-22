@@ -1,0 +1,35 @@
+C:\Users\INFORMATICA03-K\source\repos\CompiladorEstudos\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.AssemblyReference.cache
+C:\Users\INFORMATICA03-K\source\repos\CompiladorEstudos\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.CoreCompileInputs.cache
+C:\Users\INFORMATICA03-K\source\repos\CompiladorEstudos\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe.config
+C:\Users\INFORMATICA03-K\source\repos\CompiladorEstudos\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe
+C:\Users\INFORMATICA03-K\source\repos\CompiladorEstudos\CompiladorEstudos\bin\Debug\CompiladorEstudos.pdb
+C:\Users\INFORMATICA03-K\source\repos\CompiladorEstudos\CompiladorEstudos\obj\Debug\CompiladorEstudos.exe
+C:\Users\INFORMATICA03-K\source\repos\CompiladorEstudos\CompiladorEstudos\obj\Debug\CompiladorEstudos.pdb
+C:\temp\CompiladorEstudos\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe.config
+C:\temp\CompiladorEstudos\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe
+C:\temp\CompiladorEstudos\CompiladorEstudos\bin\Debug\CompiladorEstudos.pdb
+C:\temp\CompiladorEstudos\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.AssemblyReference.cache
+C:\temp\CompiladorEstudos\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.CoreCompileInputs.cache
+C:\temp\CompiladorEstudos\CompiladorEstudos\obj\Debug\CompiladorEstudos.exe
+C:\temp\CompiladorEstudos\CompiladorEstudos\obj\Debug\CompiladorEstudos.pdb
+C:\Users\usuario\Downloads\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.exe
+C:\Users\usuario\Downloads\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.pdb
+C:\Users\usuario\Downloads\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe.config
+C:\Users\usuario\Downloads\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe
+C:\Users\usuario\Downloads\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\bin\Debug\CompiladorEstudos.pdb
+C:\Users\usuario\Desktop\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe.config
+C:\Users\usuario\Desktop\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe
+C:\Users\usuario\Desktop\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\bin\Debug\CompiladorEstudos.pdb
+C:\Users\usuario\Desktop\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.exe
+C:\Users\usuario\Desktop\TRABALHO TESTE COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.pdb
+C:\Users\usuario\Desktop\TRABALHO COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe.config
+C:\Users\usuario\Desktop\TRABALHO COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\bin\Debug\CompiladorEstudos.exe
+C:\Users\usuario\Desktop\TRABALHO COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\bin\Debug\CompiladorEstudos.pdb
+C:\Users\usuario\Desktop\TRABALHO COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TRABALHO COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TRABALHO COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.exe
+C:\Users\usuario\Desktop\TRABALHO COMPILADOR\CompiladorEstudosTeste\CompiladorEstudos\obj\Debug\CompiladorEstudos.pdb
